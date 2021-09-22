@@ -2,8 +2,8 @@
 A LEGO robotic MIDI band
 
 ## Intro
-Almost 2 year working at home. Lots of noise... mainly from neighbors rebuilding jobs but also from
-the kids when they were also attending classes from home.
+Almost 2 year working at home. Lots of noise... mainly from neighbors rebuilding their apartmens but also from
+the kids while they were also attending classes from home.
 
 Not easy being an introv'd engineer. You get crazy with the noise and the lack of your own "space".
 
